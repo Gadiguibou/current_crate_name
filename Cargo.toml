@@ -1,0 +1,15 @@
+[package]
+name = "current_crate_name"
+version = "0.1.0"
+authors = ["Gabriel Lacroix <lacroixgabriel@gmail.com>"]
+categories = ["config", "development-tools"]
+description = "A (const) function to get the current crate name"
+documentation = "https://docs.rs/current_crate_name"
+edition = "2021"
+keywords = ["current", "crate", "name"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Gadiguibou/current_crate_name"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
