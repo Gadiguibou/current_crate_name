@@ -1,6 +1,6 @@
 [package]
 name = "current_crate_name"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Gabriel Lacroix <lacroixgabriel@gmail.com>"]
 categories = ["config", "development-tools"]
 description = "A (const) function to get the current crate name"
